@@ -1,16 +1,13 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**ghantisuraj/ghantisuraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Suraj Dangi currently pursuing an undergraduate degree in computer science in Missouri State University. I'm a sophomore. 
 
-Here are some ideas to get you started:
+## What I’m Learning
+- Exploring about computer languages like Python, and C++. 
+- Building projects with the help of simple coding. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Facts
+- I love listening to music especially the country music and pop. 
+- I enjoy going to gym, and playing soccer. 
+
+Thank you for being here. 
